@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1> MELHORES TIMES</h1>
+    
+    <p> Os melhores times para Navia</p>
+    <!-- 
+    -->
+    
+    <ol start="3">
+        <li>Times</li>
+        <ol>
+             <li>1: Navia(DPS principal), Zhongli(Sub DPS), Fishl(Sub DPS), Bennett(Suporte) </li>
+             <li>2: Navia(DPS principal), Zhongli(Sub DPS), Furina(Sub DPS), Bennett(Suporte) </li>
+             <li>3: Navia(DPS principal), Yelan(Sub DPS), Furina(Sub DPS), Zhongli(Sub DPS) </li>
+             <li>4: Itto(DPS principal), Furina(Sub DPS), Navia(Sub DPS), Bennett(Suporte) </li>
+             <li>5: Navia(DPS principal), Nahida(Sub DPS), Xingqiu(Sub DPS), Kuki Shinobu C2(Suporte) </li>
+        </ol>
+    </ol>
+    
+</body>
+</html>
