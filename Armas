@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1> MELHORES ARMAS</h1>
+    
+    <p> Quais armas usar na Navia</p>
+    <!-- 
+    -->
+    
+    <ol start="2">
+        <li>Armas</li>
+        <ol>
+             <li>1: Veredito(Taxa Crítica) </li>
+             <li>2: Espinha Dorsal da Serpente R5(Taxa Crítica) </li>
+             <li>3: Sinal dos Mares(Taxa Crítica) </li>
+             <li>4: Chifres Vermelhos Destruidores de Pedras(Dano Crítico) </li>
+             <li>5: Túmulo do Lobo(Ataque%)  </li>
+        </ol>
+    </ol>
+    
+</body>
+</html>
