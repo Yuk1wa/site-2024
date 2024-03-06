@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1> MELHORES ARTEFATOS</h1>
+    
+    <p> Quais artefatos usar na Navia</p>
+    <!-- 
+    -->
+    
+    <ol start="1">
+        <li>Artefatos</li>
+        <ol>
+            <li> Melhor conjunto de artefatos para ela é o "Ecos da Floresta Noturna"</li>
+            <li> Depois vem a "Trupe Dourada" </li>
+        <li> Propriedade dos substatus </li>
+        </ol>
+             <li>1: Taxa Crítica </li>
+             <li>2: Dano Crítico </li>
+             <li>3: Ataque em Porcentagem </li>
+             <li>4: Recarga de Energia </li>
+             <li>5: Ataque  </li>
+        </ol>
+    </ol>
+    
+</body>
+</html>
