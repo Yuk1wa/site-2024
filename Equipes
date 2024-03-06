@@ -6,14 +6,14 @@
     <title>Document</title>
 </head>
 <body>
-    <h1> MELHORES TIMES</h1>
+    <h1> MELHORES EQUIPES</h1>
     
-    <p> Os melhores times para Navia</p>
+    <p> As melhores equipes para Navia</p>
     <!-- 
     -->
     
     <ol start="3">
-        <li>Times</li>
+        <li>Equipes</li>
         <ol>
              <li>1: Navia(DPS principal), Zhongli(Sub DPS), Fishl(Sub DPS), Bennett(Suporte) </li>
              <li>2: Navia(DPS principal), Zhongli(Sub DPS), Furina(Sub DPS), Bennett(Suporte) </li>
